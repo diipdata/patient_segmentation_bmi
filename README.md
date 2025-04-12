@@ -1,7 +1,5 @@
 # 🧬 Segmentação de Pacientes por IMC
 
-Este projeto realiza uma segmentação estratégica de pacientes com base em informações clínicas e no índice de massa corpórea (IMC), com foco na população com mais de 50 anos. O objetivo é identificar perfis de risco de forma automatizada, categorizando pacientes como "normal" ou "obeso", e gerar um dataset pronto para análises preditivas ou direcionamento de programas de saúde preventiva.
-
 ![título](images/cover_project.png)
 
 ---
